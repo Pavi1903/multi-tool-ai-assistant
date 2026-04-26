@@ -1,4 +1,4 @@
-# 🧠 Multi-Tool AI Assistant
+# Multi-Tool AI Assistant
 
 An AI assistant that automatically routes queries between uploaded PDF documents (RAG) and live web search.
 
