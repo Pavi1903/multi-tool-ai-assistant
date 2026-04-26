@@ -45,6 +45,8 @@ Get your free API key at: https://console.groq.com
 streamlit run app/main.py
 
 ## Project Structure
+
+```
 multi-tool-ai-assistant/
 ├── app/
 │   ├── __init__.py
@@ -58,3 +60,4 @@ multi-tool-ai-assistant/
 ├── .env                 # Your API key (not tracked by git)
 ├── requirements.txt
 └── README.md
+```
