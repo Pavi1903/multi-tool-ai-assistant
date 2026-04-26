@@ -1,0 +1,10 @@
+venv/
+.env
+vectorstore/
+__pycache__/
+*.pyc
+pdfs/
+.streamlit/
+*.egg-info/
+dist/
+build/
